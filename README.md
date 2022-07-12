@@ -1,4 +1,4 @@
-# AlgoritimosF01
+# Primeiros_testes_rspec
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/algoritimos_f01`. To experiment with that code, run `bin/console` for an interactive prompt.
 
@@ -8,11 +8,11 @@ TODO: Delete this and the text above, and describe your gem
 
 Install the gem and add to the application's Gemfile by executing:
 
-    $ bundle add algoritimos_f01
+    $ bundle add primeiros_teste_rspec
 
 If bundler is not being used to manage dependencies, install the gem by executing:
 
-    $ gem install algoritimos_f01
+    $ gem install primeiros_teste_rspec
 
 ## Usage
 
@@ -34,4 +34,4 @@ The gem is available as open source under the terms of the [MIT License](https:/
 
 ## Code of Conduct
 
-Everyone interacting in the AlgoritimosF01 project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/[USERNAME]/algoritimos_f01/blob/master/CODE_OF_CONDUCT.md).
+Everyone interacting in the Orimeiros_teste_rspec project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/[USERNAME]/algoritimos_f01/blob/master/CODE_OF_CONDUCT.md).
