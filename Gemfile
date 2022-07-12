@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-# Specify your gem's dependencies in algoritimos_f01.gemspec
+# Specify your gem's dependencies in primeiros_teste_rspec.gemspec
 gemspec
 
 gem "rake", "~> 13.0"

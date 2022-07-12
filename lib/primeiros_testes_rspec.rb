@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 
-require_relative "algoritimos_f01/version"
+require_relative "primeiros_teste_rspec/version"
 
-module AlgoritimosF01
+module Primeiros_testes_rspec
   class Error < StandardError; end
   # Your code goes here...
 end

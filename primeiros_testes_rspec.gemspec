@@ -1,24 +1,24 @@
 # frozen_string_literal: true
 
-require_relative "lib/algoritimos_f01/version"
+require_relative "lib/primeiros_teste_rspec/version"
 
 Gem::Specification.new do |spec|
-  spec.name = "algoritimos_f01"
-  spec.version = AlgoritimosF01::VERSION
+  spec.name = "primeiros_teste_rspec"
+  spec.version = Primeiros_testes_rspec::VERSION
   spec.authors = ["maurobiazutti"]
   spec.email = ["mauro_biazutti@hotmail.com"]
 
   spec.summary = "TODO: Write a short summary, because RubyGems requires one."
   spec.description = "TODO: Write a longer description or delete this line."
-  spec.homepage = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage = "https://github.com/maurobiazutti/gem_rspec_01"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.6.0"
 
   spec.metadata["allowed_push_host"] = "TODO: Set to your gem server 'https://example.com'"
 
   spec.metadata["homepage_uri"] = spec.homepage
-  spec.metadata["source_code_uri"] = "TODO: Put your gem's public repo URL here."
-  spec.metadata["changelog_uri"] = "TODO: Put your gem's CHANGELOG.md URL here."
+  spec.metadata["source_code_uri"] = "https://github.com/maurobiazutti/gem_rspec_01"
+  spec.metadata["changelog_uri"] = "Put your gem's CHANGELOG.md URL here."
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.
