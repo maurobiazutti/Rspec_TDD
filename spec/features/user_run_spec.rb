@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'application'
 
 # Estrutura basica de Testes
@@ -16,7 +18,7 @@ require 'application'
 
 #     end
 #   end
-# end  
+# end
 
 describe 'Application' do
   context '#call' do
@@ -24,7 +26,7 @@ describe 'Application' do
       # arrange (preparação)
       # act (agir)
       # assert (afirmar)
-      expect(Application.new.call).to eq('hi' )
+      expect(Application.new.call).to eq('hi')
     end
   end
 end
