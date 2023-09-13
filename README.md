@@ -8,11 +8,13 @@ Adicione o RSPEC ao seu Gemfile:
 
 ```ruby
 gem 'rspec'
+```
 
 Então execute:
 
 ```ruby
 bundle install
+```
 
 ## Tipos de Testes mais Usados
 
