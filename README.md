@@ -55,3 +55,29 @@ Aqui estão alguns exemplos de diferentes tipos de testes que você pode escreve
   ```ruby
   expect(aluno.aprovado?).to be_truthy
   ```
+
+- Teste de falso (be_falsey):
+
+  ```ruby
+  expect(aluno.reprovado?).to be_falsey
+  ```
+
+- Teste de nulo (be_nil):
+
+  ```ruby
+  expect(resultado).to be_nil
+  ```
+
+- Teste de tipo (be_instance_of):
+  
+  ```ruby
+  expect(aluno).to be_instance_of(Aluno)
+  ```
+
+- Teste de igualdade aproximada (be_within):
+
+  ```ruby
+  expect(calculadora.dividir(10, 3)).to be_within(0.01).of(3.33)
+  ```
+
+Este código em descreve os tipos de testes mais usados com RSPEC, fornecendo exemplos de código em Ruby para cada um deles.
