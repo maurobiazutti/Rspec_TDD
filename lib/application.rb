@@ -1,5 +1,6 @@
+# frozen_string_literal: true
 
-
+# This is the main Application class that runs the application
 class Application
   def initialize; end
 
@@ -21,4 +22,4 @@ class Application
   def present_student
     Student.say_hi
   end
-end  
+end
